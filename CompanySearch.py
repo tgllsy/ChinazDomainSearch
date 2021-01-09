@@ -8,7 +8,7 @@ import json
 import csv
 import time
 
-key = "794decf5b9234419a11fed9d94b08b32"  # 请输入你的key
+key = ""  # 请输入你的key
 
 
 def args():
